@@ -35,7 +35,7 @@ Write a list of strings to a file:
 ```java
 writeFileAsLines("lines.txt", list);
 ```
-`printf` w/o requiring `System.out.` in front:
+printf w/o requiring System.out in front:
 ```java
 printf("%d words in %s\n", words.size(), path);
 print("Hello");
@@ -44,7 +44,7 @@ Read a line of text from the console:
 ```java
 String s = readLine();
 ```
-Parse `int`s, `float`s, etc w/o having to put `Integer.` in front:
+Parse ints, floats, etc w/o having to put Integer in front:
 ```java
 parseInt/Long/Float/Double/Boolean()
 ```
