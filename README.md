@@ -29,7 +29,7 @@ writeFile("file.txt", str);  // Write a String to a file.
 
 writeFileAsLines("lines.txt", list);  // Write a list of strings to a file.
 
-printf("%d words in %s\n", words.size(), path);
+printf("%d words in %s\n", words.size(), path);   // printf w/o requiring System.out. in front.
 
 print("Hello");
 
