@@ -13,6 +13,7 @@ Includes:
 * `commons-lang3`:  With the wonderful `StringUtils`, which has `join`, `substringsBetween`, `reverse`, etc.  For example:
 ```java
 String[] titles = substringsBetween(quakesXml, "<title>M ", "</title>");
+```
 
 * Provides simple static functions that make Java a *whole* lot easier to use:
 
