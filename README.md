@@ -21,13 +21,13 @@ System.out.println("Hello");
 ```
 Other static functions:
 ```java
-String quakeText = readFile("4.5_week.atom");
+String quakeText = readFile("4.5_week.atom");  // Read a whole file into a String with one line of code.
 
-List<String> words = readFileAsLines("dict.txt");
+List<String> words = readFileAsLines("dict.txt");  // Read a file into a list of Strings.
 
-writeFile("file.txt", str);
+writeFile("file.txt", str);  // Write a String to a file.
 
-writeFileAsLines("lines.txt", list);
+writeFileAsLines("lines.txt", list);  // Write a list of strings to a file.
 
 printf("%d words in %s\n", words.size(), path);
 
@@ -35,7 +35,7 @@ print("Hello");
 
 String s = readLine();  // Read a line of text from the console
 
-parseInt/Long/Float/Double/Boolean()
+parseInt/Long/Float/Double/Boolean()  // Parse ints, floats, etc w/o having to put Integer. in front.
 ```
 
 * `commons-lang3`:  With the wonderful `StringUtils`, which has `join`, `substringsBetween`, `reverse`, etc.  For example:
