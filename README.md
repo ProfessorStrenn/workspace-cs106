@@ -1,7 +1,7 @@
 # workspace-cs106-v3
 
 Eclipse workspace used for CS106, CS165, and CS180.  It includes:
-*  The JavaCoreTemplate project:  make a copy of this project when starting each assignment.
+*  The **JavaCoreTemplate** (see below) project:  make a copy of this project when starting each assignment.
 *  Eclipse preferences set to support easier coding in Java.
 
 
