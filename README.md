@@ -46,4 +46,8 @@ String[] titles = substringsBetween(quakesXml, "<title>M ", "</title>");
 * [PMD](https://pmd.github.io/) support, including a tailored set of rules (`cs106.ruleset`).
 
 # TO USE
-
+1.  Download [workspace-cs106-v3.zip](https://github.com/ProfessorStrenn/workspace-cs106-v3/releases/download/initial_commit/workspace-cs106-v3.zip) and unzip it.
+2.  Launch Eclipse.
+3.  File | Switch Workspace | Other...
+4.  Navigate to where you unzipped workspace-cs106-v3.
+5.  Click OK, then click OK again.
