@@ -1,4 +1,4 @@
-# workspace-cs106-v3
+# WORKSPACE-CS106-V3
 
 Eclipse workspace used for CS106, CS165, and CS180.  It includes:
 *  The **JavaCoreTemplate** (see below) project:  make a copy of this project when starting each assignment.
@@ -44,3 +44,6 @@ String[] titles = substringsBetween(quakesXml, "<title>M ", "</title>");
 ```
 
 * [PMD](https://pmd.github.io/) support, including a tailored set of rules (`cs106.ruleset`).
+
+# TO USE
+
