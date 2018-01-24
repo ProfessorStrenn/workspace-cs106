@@ -15,9 +15,7 @@ Includes:
 ```java
 println("Hello");
 ```
-rather than 
-```java
-System.out.println("Hello");
+rather than the EVIL `System.out.println("Hello");`
 ```
 Read a whole file into a String with one line of code:
 ```java
