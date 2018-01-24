@@ -60,3 +60,9 @@ String[] titles = substringsBetween(quakesXml, "<title>", "</title>");
 3.  File | Switch Workspace | Other...
 4.  Navigate to where you unzipped workspace-cs106-v3.
 5.  Click OK, then click OK again.
+
+# STATIC IMPORT OF CORE FUNCTIONALITY
+JavaCoreTemplate's Main class already has the Core functionality statically imported.  If that static import has been removed, and to add core functionality to other classes, add the following static import at the top of the .java file:
+```java
+import static sbcc.Core.*;
+```
