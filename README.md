@@ -10,7 +10,7 @@ Eclipse workspace used for CS106, CS165, and CS180.  It includes:
 Includes:
 * `Main.java`, with a `main()` that is ready to go, and has useful classes statically imported.
 
-* Provides simple static functions that make Java a *whole* lot easier to use:
+* Provides simple static functions that make Java a **whole lot easier to use**.  For example, to print to the screen it's just:
 
 ```java
 println("Hello");
