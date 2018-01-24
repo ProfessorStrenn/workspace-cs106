@@ -8,7 +8,7 @@ Eclipse workspace used for CS106, CS165, and CS180.  It includes:
 # JavaCoreTemplate
 
 Includes:
-* `Program.java`, with a `main()` that is ready to go, and has useful classes statically imported.
+* `Main.java`, with a `main()` that is ready to go, and has useful classes statically imported.
 
 * Provides simple static functions that make Java a *whole* lot easier to use:
 
