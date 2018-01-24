@@ -51,7 +51,7 @@ parseInt/Long/Float/Double/Boolean()
 
 * `commons-lang3`:  With the wonderful `StringUtils`, which has `join`, `substringsBetween`, `reverse`, etc.  For example:
 ```java
-String[] titles = substringsBetween(quakesXml, "<title>M ", "</title>");
+String[] titles = substringsBetween(quakesXml, "<title>", "</title>");
 ```
 
 * [PMD](https://pmd.github.io/) support, including a tailored set of rules (`cs106.ruleset`).
