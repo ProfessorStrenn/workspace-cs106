@@ -53,8 +53,8 @@ Parse ints, floats, etc w/o having to put `Integer.` in front:
 int age = parseInt(text);
 ```
 
-# commons-lang3
-With the wonderful `StringUtils`, which has `join`, `substringsBetween`, `reverse`, etc.  For example:
+# join, substringsBetween, reverse, and more
+JavaCoreTemplate includes the wonderful `StringUtils`, which has `join`, `substringsBetween`, `reverse`, etc.  For example:
 ```java
 String[] titles = substringsBetween(quakesXml, "<title>", "</title>");
 ```
