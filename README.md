@@ -47,10 +47,10 @@ printf w/o requiring `System.out.` in front:
 printf("%d words in %s\n", words.size(), path);
 print("Hello");
 ```
-# parseInt
-Parse ints, floats, etc w/o having to put Integer in front:
+# parseInt/Long/Float/Double/Boolean
+Parse ints, floats, etc w/o having to put `Integer.` in front:
 ```java
-parseInt/Long/Float/Double/Boolean()
+int age = parseInt(text);
 ```
 
 # commons-lang3
