@@ -4,6 +4,7 @@ Eclipse workspace used for CS106, CS165, and CS180.  It includes:
 *  The **JavaCoreTemplate** (see below) project:  make a copy of this project when starting each assignment.
 *  Eclipse preferences set to support easier coding in Java.
 
+&nbsp;
 
 # MAIN
 
@@ -60,6 +61,7 @@ String[] titles = substringsBetween(quakesXml, "<title>", "</title>");
 
 * [PMD](https://pmd.github.io/) support, including a tailored set of rules (`cs106.ruleset`).
 
+&nbsp;
 # TO USE
 1.  Download [workspace-cs106-v3.zip](https://github.com/ProfessorStrenn/workspace-cs106-v3/releases/download/v3.4/workspace-cs106-v3.zip) and unzip it.
 2.  Launch Eclipse.
@@ -67,6 +69,7 @@ String[] titles = substringsBetween(quakesXml, "<title>", "</title>");
 4.  Navigate to where you unzipped workspace-cs106-v3.
 5.  Click OK, then click OK again.
 
+&nbsp;
 # STATIC IMPORT OF CORE FUNCTIONALITY
 JavaCoreTemplate's `Main` class already has the `Core` functionality statically imported.  If that static import has been removed, and to add core functionality to other classes, add the following static import at the top of the `.java` file:
 ```java
