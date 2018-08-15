@@ -6,7 +6,7 @@ Eclipse workspace used for CS106, CS165, and CS180.  It includes:
 
 &nbsp;
 
-# MAIN
+# Main
 
 Includes `Main.java`, with a `main()` function that is ready to go, and has useful classes statically imported.
 
