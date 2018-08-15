@@ -5,12 +5,11 @@ Eclipse workspace used for CS106, CS165, and CS180.  It includes:
 *  Eclipse preferences set to support easier coding in Java.
 
 
-# JavaCoreTemplate
+# JAVA CORE TEMPLATE
 
-Includes:
-* `Main.java`, with a `main()` that is ready to go, and has useful classes statically imported.
+Includes `Main.java`, with a `main()` that is ready to go, and has useful classes statically imported.
 
-* Provides simple static functions that make Java a **whole lot easier to use**.  For example, to print to the screen it's just:
+##println
 
 ```java
 println("Hello");
