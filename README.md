@@ -15,6 +15,10 @@ Eliminate the EVIL `System.out.` and just use:
 ```java
 println("Hello");
 ```
+# readLine
+Read a line of text from the console:
+```java
+String s = readLine();
 
 # readFile
 Read a whole file into a String with one line of code:
@@ -27,7 +31,7 @@ Read a file into a list of Strings:
 List<String> words = readFileAsLines("dict.txt");
 ```
 # writeFile
-Write a String to a file:
+Write a string to a file:
 ```java
 writeFile("file.txt", str);
 ```
@@ -37,15 +41,11 @@ Write a list of strings to a file:
 writeFileAsLines("lines.txt", list);
 ```
 # printf
-printf w/o requiring System.out in front:
+printf w/o requiring `System.out.` in front:
 ```java
 printf("%d words in %s\n", words.size(), path);
 print("Hello");
 ```
-* readLine
-Read a line of text from the console:
-```java
-String s = readLine();
 # parseInt
 ```
 Parse ints, floats, etc w/o having to put Integer in front:
