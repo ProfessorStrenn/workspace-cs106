@@ -59,7 +59,8 @@ JavaCoreTemplate includes the wonderful `StringUtils`, which has `join`, `substr
 String[] titles = substringsBetween(quakesXml, "<title>", "</title>");
 ```
 
-* [PMD](https://pmd.github.io/) support, including a tailored set of rules (`cs106.ruleset`).
+# PMD
+[PMD](https://pmd.github.io/) support, including a tailored set of rules (`cs106.ruleset`).
 
 &nbsp;
 # TO USE
