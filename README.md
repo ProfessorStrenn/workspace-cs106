@@ -11,7 +11,7 @@ Eclipse workspace used for CS106, CS165, and CS180.  It includes:
 Includes `Main.java`, with a `main()` function that is ready to go, and has useful classes statically imported.
 
 # println
- rather than the EVIL `System.out.println("Hello");` use:
+Eliminate the EVIL `System.out.` and just use:
 ```java
 println("Hello");
 ```
