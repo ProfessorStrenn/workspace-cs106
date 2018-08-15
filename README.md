@@ -19,6 +19,7 @@ println("Hello");
 Read a line of text from the console:
 ```java
 String s = readLine();
+```
 
 # readFile
 Read a whole file into a String with one line of code:
@@ -47,7 +48,6 @@ printf("%d words in %s\n", words.size(), path);
 print("Hello");
 ```
 # parseInt
-```
 Parse ints, floats, etc w/o having to put Integer in front:
 ```java
 parseInt/Long/Float/Double/Boolean()
