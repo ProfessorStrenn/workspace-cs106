@@ -1,4 +1,4 @@
-# WORKSPACE-CS106-V3
+# WORKSPACE-CS106-V4
 
 This is the Eclipse workspace that is to be used for CS106, CS165, and CS180.  It includes:
 *  Eclipse preferences set to support easier coding in Java.
@@ -64,7 +64,7 @@ String[] titles = substringsBetween(quakesXml, "<title>", "</title>");
 
 &nbsp;
 # TO USE
-1.  Download [workspace-cs106-v3.zip](https://github.com/ProfessorStrenn/workspace-cs106-v3/releases/download/v3.4/workspace-cs106-v3.zip) and unzip it.
+1.  Download [workspace-cs106-v4.zip](https://github.com/ProfessorStrenn/workspace-cs106/releases/download/v4.0/workspace-cs106-v4.zip) and unzip it.
 2.  Launch Eclipse.
 3.  File | Switch Workspace | Other...
 4.  Navigate to where you unzipped workspace-cs106-v3.
