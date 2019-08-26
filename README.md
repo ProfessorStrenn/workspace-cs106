@@ -75,7 +75,4 @@ import static sbcc.Core.*;
 3.  File | Switch Workspace | Other...
 4.  Navigate to where you unzipped workspace-cs106-v4.
 5.  Click OK, then click OK again.
-
-&nbsp;
-# FEATURES (BACK TO TOP)
-[Workspace CS106 Features](#WORKSPACE-CS106)
+6.  If you haven't already done so, check out the [time-saving features that the workspace offers](#WORKSPACE-CS106)
