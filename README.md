@@ -63,6 +63,12 @@ String[] titles = substringsBetween(quakesXml, "<title>", "</title>");
 [PMD](https://pmd.github.io/) support, including a tailored set of rules (`cs106.ruleset`).
 
 &nbsp;
+# STATIC IMPORT OF CORE FUNCTIONALITY
+JavaCoreTemplate's `Main` class already has the `Core` functionality statically imported.  To add `Core` functionality to other classes, add the following static import at the top of the `.java` file:
+```java
+import static sbcc.Core.*;
+```
+&nbsp;
 # TO USE
 1.  Download [workspace-cs106-v4.zip](https://github.com/ProfessorStrenn/workspace-cs106/releases/download/v4.0/workspace-cs106-v4.zip) and unzip it.
 2.  Launch Eclipse.
@@ -71,11 +77,5 @@ String[] titles = substringsBetween(quakesXml, "<title>", "</title>");
 5.  Click OK, then click OK again.
 
 &nbsp;
-# STATIC IMPORT OF CORE FUNCTIONALITY
-JavaCoreTemplate's `Main` class already has the `Core` functionality statically imported.  To add `Core` functionality to other classes, add the following static import at the top of the `.java` file:
-```java
-import static sbcc.Core.*;
-```
-&nbsp;
 # FEATURES (BACK TO TOP)
-[Workspace CS106 Features](#WORKSPACE-CS106)
+[Workspace CS106 Features](https://github.com/ProfessorStrenn/workspace-cs106#WORKSPACE-CS106)
