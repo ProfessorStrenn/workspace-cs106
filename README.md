@@ -78,4 +78,4 @@ import static sbcc.Core.*;
 
 &nbsp;
 # FEATURES (BACK TO TOP)
-[Workspace CS106 Features](https://github.com/ProfessorStrenn/workspace-cs106#WORKSPACE-CS106)
+[Workspace CS106 Features](#WORKSPACE-CS106)
