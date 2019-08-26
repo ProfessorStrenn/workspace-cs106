@@ -77,4 +77,5 @@ JavaCoreTemplate's `Main` class already has the `Core` functionality statically 
 import static sbcc.Core.*;
 ```
 &nbsp;
+# FEATURES (BACK TO TOP)
 [Workspace CS106 Features](#WORKSPACE-CS106)
