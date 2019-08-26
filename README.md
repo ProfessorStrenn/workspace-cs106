@@ -54,7 +54,7 @@ int age = parseInt(text);
 ```
 
 # join, substringsBetween, reverse, and more
-JavaCoreTemplate includes the wonderful `StringUtils`, which has `join`, `substringsBetween`, `reverse`, etc.  For example:
+JavaCoreTemplate includes the wonderful [`StringUtils`](https://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/StringUtils.html), which has `join`, `substringsBetween`, `reverse`, etc.  For example:
 ```java
 String[] titles = substringsBetween(quakesXml, "<title>", "</title>");
 ```
@@ -76,4 +76,4 @@ JavaCoreTemplate's `Main` class already has the `Core` functionality statically 
 ```java
 import static sbcc.Core.*;
 ```
-[Workspace CS106 Features](https://github.com/ProfessorStrenn/workspace-cs106#WORKSPACE-CS106
+[Workspace CS106 Features](https://github.com/ProfessorStrenn/workspace-cs106#WORKSPACE-CS106)
