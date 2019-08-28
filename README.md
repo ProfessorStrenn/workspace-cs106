@@ -71,9 +71,11 @@ import static sbcc.Core.*;
 &nbsp;
 # TO USE
 1.  Download [workspace-cs106-v4.zip](https://github.com/ProfessorStrenn/workspace-cs106/releases/download/v4.0/workspace-cs106-v4.zip)
-2.  Unzip it (if you are on a CS lab computer, unzip this archive onto the root of the X: drive).
-2.  Launch Eclipse (if you are on a CS Lab computer, double-click the `C106 - Eclipse - Java` shortcut).
-3.  File | Switch Workspace | Other...
-4.  Navigate to where you unzipped workspace-cs106-v4.
-5.  Click OK, then click OK again.
-6.  If you haven't already done so, check out the [time-saving features that the workspace offers](#WORKSPACE-CS106)
+2.  If you are on a CS Lab computer:
+    1.  Unzip this archive onto the root of the X: drive.
+    2.  Double-click the `C106 - Eclipse - Java` shortcut.
+3.  If you are on your own computer:
+    1.  File | Switch Workspace | Other...
+    2.  Navigate to where you unzipped workspace-cs106-v4.
+    3.  Click OK, then click OK again.
+4.  If you haven't already done so, check out the [time-saving features that the workspace offers](#WORKSPACE-CS106)
