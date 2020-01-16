@@ -60,7 +60,7 @@ for (var x : range(10))
 	println("Hello " + x);
 ```
 
-# join, substringsBetween, reverse, and more
+# join, substringsBetween, substringBefore, substringBetween, reverse, and more
 JavaCoreTemplate includes the wonderful [`StringUtils`](https://commons.apache.org/proper/commons-lang/apidocs/org/apache/commons/lang3/StringUtils.html), which has `join`, `substringsBetween`, `reverse`, etc.  For example:
 ```java
 String[] titles = substringsBetween(quakesXml, "<title>", "</title>");
