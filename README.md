@@ -80,10 +80,12 @@ import static sbcc.Core.*;
 1.  If you are using the SBCC Student Desktop VDI:
     1.  workspace-cs106_v4 should already be downloaded on your N: drive.
     2.  Double-click the N:\CompSci\launchers\Eclipse CS106 shortcut.  It will launch Eclipse and point it at N:\workspace-cs106_v4.
+
 2.  If you are on your own computer:
     1.  Download [workspace-cs106-v4.zip](https://github.com/ProfessorStrenn/workspace-cs106/releases/download/4.0.3/workspace-cs106-v4.zip)
     2.  Unzip the workspace where you like.
     2.  File | Switch Workspace | Other...
     3.  Navigate to where you unzipped workspace-cs106-v4.  ** NOTE: By default, Windows extracts and extra level of folder.  I.e. your_folder/workspace-cs106-v4/workspace-cs106-v4.  Double check this.  If you have the "extra level", be sure to navigate to the inner level:  your_folder/workspace-cs106-v4/workspace-cs106-v4.
     4.  Click OK, then click OK again.
+
 4.  If you haven't already done so, check out the [time-saving features that the workspace offers](#WORKSPACE-CS106)
