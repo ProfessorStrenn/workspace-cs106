@@ -78,8 +78,11 @@ import static sbcc.Core.*;
 &nbsp;
 # TO USE
 1.  If you are using the SBCC Student Desktop VDI:
-    1.  workspace-cs106_v4 should already be downloaded on your N: drive.
-    2.  Double-click the N:\CompSci\launchers\Eclipse CS106 shortcut.  It will launch Eclipse and point it at N:\workspace-cs106_v4.
+    1.  Download [workspace-cs106-v4.zip](https://github.com/ProfessorStrenn/workspace-cs106/releases/download/4.0.3/workspace-cs106-v4.zip)
+    2.  Copy the .zip file to the N:\ drive (CSnebula).
+    3.  Right-click the .zip file, select **7-zip | Extract Here**.  Click Yes to All.
+    4.  Double-click the N:\CompSci\launchers\Eclipse CS106 shortcut.  It will launch Eclipse and point it at N:\workspace-cs106_v4.
+    5.  If you get an "older version warning", check the "Do not warn again..." box and click Continue.
 
 2.  If you are on your own computer:
     1.  Download [workspace-cs106-v4.zip](https://github.com/ProfessorStrenn/workspace-cs106/releases/download/4.0.3/workspace-cs106-v4.zip)
