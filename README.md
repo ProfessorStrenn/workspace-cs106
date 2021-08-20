@@ -53,6 +53,11 @@ Parse ints, floats, etc w/o having to put `Integer.` in front:
 int age = parseInt(text);
 ```
 
+# asList
+```java
+var list = asList("This", "That", "And the other");
+```
+
 # range
 Use range() to loop in a pythonic manner:
 ```java
