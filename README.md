@@ -83,14 +83,14 @@ import static sbcc.Core.*;
 &nbsp;
 # TO USE
 1.  If you are using the SBCC Student Desktop VDI:
-    1.  Download [workspace-cs106-v5.zip](https://github.com/ProfessorStrenn/workspace-cs106/releases/download/v5.0.1/workspace-cs106-v5.zip)
+    1.  Download [workspace-cs106-v5.zip](https://github.com/ProfessorStrenn/workspace-cs106/releases/download/v5.0.2/workspace-cs106-v5.zip)
     2.  In Windows Explorer, copy the .zip file to the N:\ drive (CSnebula).
     3.  Right-click the .zip file, select **7-zip | Extract Here**.  If asked about overwriting files, click Yes to All.
     4.  Double-click the N:\CompSci\launchers\Eclipse CS106 shortcut.  This will launch Eclipse and point it at N:\workspace-cs106_v5.
     5.  If you get an "older version warning", check the "Do not warn again..." box and click Continue.
 
 2.  If you are on your own computer:
-    1.  Download [workspace-cs106-v5.zip](https://github.com/ProfessorStrenn/workspace-cs106/releases/download/v5.0.1/workspace-cs106-v5.zip)
+    1.  Download [workspace-cs106-v5.zip](https://github.com/ProfessorStrenn/workspace-cs106/releases/download/v5.0.2/workspace-cs106-v5.zip)
     2.  Unzip the workspace where you like.
     2.  File | Switch Workspace | Other...
     3.  Navigate to where you unzipped workspace-cs106-v5.  ** NOTE: By default, Windows extracts and extra level of folder.  I.e. your_folder/workspace-cs106-v5/workspace-cs106-v5.  Double check this.  If you have the "extra level", be sure to navigate to the inner level:  your_folder/workspace-cs106-v5/workspace-cs106-v5.
